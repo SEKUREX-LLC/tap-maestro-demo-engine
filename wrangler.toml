@@ -1,0 +1,7 @@
+name = "tap-maestro-demo-engine"
+main = "src/index.ts"
+compatibility_date = "2025-04-01"
+
+[[kv_namespaces]]
+binding = "DEMO_ASSETS"
+id = "65aae2d620cd46b5ad143dfea551b9d9"
