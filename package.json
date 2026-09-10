@@ -27,7 +27,7 @@
         "path-to-regexp": "^6.3.0",
         "pathe": "^2.0.3",
         "semver": "^7.7.4",
-        "sharp": "^0.34.5",
+        "sharp": "^0.35.4",
         "supports-color": "^10.2.2",
         "undici": "^7.24.8",
         "unenv": "^2.0.0-rc.24",
